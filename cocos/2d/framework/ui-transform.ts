@@ -587,7 +587,7 @@ export class UITransform extends Component {
      * The behavior is slightly different with [[getBoundingBoxToWorld]] and [[getBoundingBoxTo]].
      *
      * @zh
-     * 返回父节坐标系下的轴向对齐的包围盒。
+     * 返回父节点坐标系下的轴向对齐的包围盒。
      * 返回的包围盒仅仅只包含当前节点的轴向对齐包围盒，不包含子节点。
      * 这个 API 的行为和 [[getBoundingBoxToWorld]] 和 [[getBoundingBoxTo]] 略有不同。
      *
